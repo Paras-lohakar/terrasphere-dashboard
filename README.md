@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TERRASPHERE: AI-Powered Satellite Intelligence
 
 A mission-ready geospatial surveillance platform featuring multi-temporal change detection, Siamese CNN models, STAC satellite ingestion, PostGIS vector layers, and air-gapped RAG intelligence.
@@ -110,3 +111,6 @@ terrasphere/
 │       └── apiClient.ts            # Plug-and-play FastAPI bridge
 └── package.json
 ```
+=======
+# terrasphere-dashboard
+>>>>>>> 1cde5a778e31a7509b536482cdc7419725159c46
